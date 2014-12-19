@@ -176,7 +176,7 @@ class Mdash
 
 		<div class="wrap">
 			<span style="display:block; padding-left: 5px; padding-bottom: 5px">
-				<h2><?php _e("Evgeny Muravjov's Typograph Settings", 'mdash'); ?></h2>
+				<h2><?php _e("Typograph Settings", 'mdash'); ?></h2>
 			</span>
 						
 			<form method="post" action="">
